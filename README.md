@@ -1,4 +1,4 @@
-# Examly-An-Exam-Portal (PHP)
+# Examly-An-Exam-Portal (PHP) CHECK MASTER BRANCH
 Examly an online exam portal where teacher can create tests and student can give them.
 Students can login and view the tests availabe(previously created by teachers).
 Teachers can create test: give the test name, question, options and the correct option.
